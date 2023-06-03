@@ -123,12 +123,12 @@ z-index
     background: url(../Img/image\ 4.3titleimg.png)no-repeat center /cover, #555555;
     background-blend-mode: multiply;
 }
-.title-wrapper {
+.title__wrapper {
     margin-left: 2em;
     max-width: 676px;
 }
 
-.title-top_header {
+.title-top__header {
     padding-right: 2em;
     font-family: 'Yeseva One';
     font-style: normal;
@@ -144,7 +144,7 @@ z-index
     color: #E3B873;
 }
 
-.title-top_parh {
+.title-top__parh {
     margin-top: 1.2em;
     margin-right: 7em;
     color: #fff;
@@ -161,7 +161,7 @@ z-index
     margin-top: 2em;
 }
 
-.title-btn_btn-first {
+.title-btn__btn-first {
     padding: 20px 42px;
     border: none;
     border-radius: 2px;
@@ -176,7 +176,7 @@ z-index
     color: #fff;
 }
 
-.title-btn_btn-second {
+.title-btn__btn-second {
     margin-left: 20px;
     padding: 18px 40px;
     border: 2px solid #fff;
@@ -192,7 +192,7 @@ z-index
     color: #fff;
 }
 
-.title-btn_btn-second:hover {
+.title-btn__btn-second:hover {
     background: #E3B873;
     border: 2px solid #E3B873;
     
@@ -211,7 +211,7 @@ z-index
     padding-bottom: 50px;
 }
 
-.carousel-link_item {
+.carousel-link__item {
     margin-right: 61px;
     color: rgba(255, 255, 255, 0.3);
     font-family: 'Yeseva One';
@@ -225,7 +225,7 @@ z-index
     cursor: pointer;
 }
 
-.carousel-link_item:hover {
+.carousel-link__item:hover {
     border-color: #E3B873;
     color: #E3B873;
 }
@@ -242,7 +242,7 @@ z-index
     padding-right: 50px;
 }
 
-.description_header {
+.description__header {
     color: #E3B873;
     font-family: 'Yeseva One';
     font-style: normal;
@@ -253,7 +253,7 @@ z-index
     text-transform: uppercase;
 }
 
-.description_parh {
+.description__parh {
     margin-top: 34px;
     font-family: 'Nunito Sans';
     font-style: normal;
@@ -263,7 +263,7 @@ z-index
     color: #fff;
 }
 
-.description-wrapper__item {
+.description__wrapper__item {
     display: flex;
     flex-wrap: wrap;
 }
@@ -273,7 +273,7 @@ z-index
     margin-top: 42px;
 }
 
-.description__item_header {
+.description__item__header {
     color: #E3B873;
     font-family: 'Yeseva One';
     font-style: normal;
@@ -283,7 +283,7 @@ z-index
     text-transform: uppercase;
 }
 
-.description__item_parh {
+.description__item__parh {
     margin-top: .5em;
     font-family: 'Nunito Sans';
     font-style: normal;
@@ -311,7 +311,7 @@ z-index
     padding-top: 5px;
 }
 
-.project-switcher_item {
+.project-switcher__item {
     margin-left: 1em;
     height: 10px;
     width: 10px;
@@ -319,7 +319,7 @@ z-index
     border-radius: 30px;
 }
 
-.project-switcher_item:active {
+.project-switcher__item:active {
     background: rgba(255, 255, 255);
 }
 
@@ -377,7 +377,7 @@ z-index
     align-items: center;
 }
 
-.online-control_header {
+.online-control__header {
     margin-top: 92px;
     color: #fff;
     font-family: 'Yeseva One';
@@ -487,7 +487,7 @@ z-index
     align-items: center;
 }
 
-.online-control_parh {
+.online-control__parh {
     color: #363636;
     font-family: 'Nunito Sans';
     font-style: normal;
@@ -596,7 +596,7 @@ z-index
     margin-top: 150px;
 }
 
-.types-of-repair_header {
+.types-of-repair__header {
     margin-top: 92px;
     color: #181818;
     font-family: 'Yeseva One';
@@ -645,7 +645,7 @@ z-index
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.03);
 }
 
-.room-description_header {
+.room-description__header {
     font-family: 'Yeseva One';
     font-style: normal;
     font-weight: 400;
@@ -659,7 +659,7 @@ z-index
     padding-left: 15px;
 }
 
-.list_item {
+.list__item {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -722,7 +722,7 @@ z-index
     justify-content: space-between;
 }
 
-.pointer_box {
+.pointer__box {
     margin-left: 114px;
     display: flex;
     justify-content: center;
@@ -743,7 +743,7 @@ z-index
     box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.15);
 }
 
-.pointer_parh {
+.pointer__parh {
     margin-left: 12px;
     display: flex;
     align-items: center;
@@ -925,7 +925,7 @@ z-index
     width: 411px;
 }
 
-.gallery_header {
+.gallery__header {
     font-family: 'Yeseva One';
     font-style: normal;
     font-weight: 400;
